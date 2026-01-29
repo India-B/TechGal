@@ -1,6 +1,6 @@
 # TechGal
 <h1 align="center">Hi, I'm India 👋</h1>
-<h3 align="center">Aspiring Data Scientist | ML Enthusiast | Lifelong Learner</h3>
+<h3 align="center"> Data Scientist | ML Enthusiast | Lifelong Learner</h3>
 
 ---
 
